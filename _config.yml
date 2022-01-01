@@ -22,3 +22,11 @@ kramdown:
   auto_ids: true
   syntax_highlighter: rouge
   toc_levels: 1..3
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-ZBP54F74E0"
+    anonymize_ip         : # true, false (default)
