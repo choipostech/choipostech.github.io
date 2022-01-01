@@ -13,6 +13,7 @@ excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
