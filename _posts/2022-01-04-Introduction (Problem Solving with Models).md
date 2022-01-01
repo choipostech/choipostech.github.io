@@ -4,6 +4,7 @@ comments: true
 title: "Introduction (Problem Solving with Models)"
 date: 2022-01-02 00:35:00
 tags: operations-research
+image: "2_1.jpg"
 ---
 <!--more-->
 
